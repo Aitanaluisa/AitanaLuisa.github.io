@@ -25,7 +25,7 @@
     </p>
 </body>
 </html>
-body {
+        body {
     background-color: #c5bead;
     font-family: Arial, sans-serif;
 }

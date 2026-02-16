@@ -27,3 +27,16 @@
     </p>
 </body>
 </html>
+body {
+    background-color: #c5bead;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #3b5370;
+    text-align: center;
+    border-bottom: 2px solid #3498db;
+}
+p {
+    line-height: 1.6;
+    color: #3b5370;
+}

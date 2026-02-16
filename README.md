@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HTML Aitana Flores Goals for Fundamentals of Computing Applications</title>
+    <title> HTML Aitana Flores Goals for Fundamentals of Computing Applications </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

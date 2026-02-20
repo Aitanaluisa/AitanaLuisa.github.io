@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://github.com/Aitanaluisa">github.com/Aitanaluisa">
 </head>
 <body>
    <header>
@@ -28,6 +28,7 @@ body {
     background-color: #b16666;
     font-family: Arial, sans-serif;
 }
+    
 /* Target the h1 tag to style the name */
 h1 {
     color: #2c3e50;
